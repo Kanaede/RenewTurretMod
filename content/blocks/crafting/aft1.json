@@ -4,7 +4,7 @@
     "haspower": true,
     "size": 2,
     "craftTime": 180,
-    "craftEffect": "produceSmoke",
+    "craftEffect": "smokeCloud",
     "requirements": [
         {"item":"copper","amount":50},
         {"item":"lead","amount":20},

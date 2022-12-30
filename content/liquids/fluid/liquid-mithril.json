@@ -1,0 +1,11 @@
+{
+    "color": "3ba7ff",
+    "gasColor": "027adb",
+    "temperature": 0,
+    "heatCapacity": 3,
+    "viscosity": -0.5,
+    "effect": "freezing",
+    "research": "mithril",
+    "coolant": true,
+    "explosiveness": 0
+}

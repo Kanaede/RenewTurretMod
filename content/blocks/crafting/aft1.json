@@ -1,0 +1,25 @@
+{
+    "type": "GenericCrafter",
+    "category": "crafting",
+    "haspower": true,
+    "size": 2,
+    "craftTime": 180,
+    "craftEffect": "produceSmoke",
+    "requirements": [
+        {"item":"copper","amount":50},
+        {"item":"lead","amount":20},
+        {"item":"silicon","amount":40},
+        {"item":"mithril","amount":50}
+    ],
+    "consumes": {
+        "power": 1.7,
+        "items": {
+            "items": [
+                {"item":"mithril","amount":4},
+                {"item":"silicon","amount":1}
+            ]
+        }
+    },
+    "research": "silicon-smelter",
+    "itemOutput": {"item":"heavy-ammo1","amount":2}
+}

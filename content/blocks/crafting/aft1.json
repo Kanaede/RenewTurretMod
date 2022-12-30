@@ -21,5 +21,6 @@
         }
     },
     "research": "silicon-smelter",
-    "itemOutput": {"item":"heavy-ammo1","amount":2}
+    "itemOutput": {"item":"heavy-ammo1","amount":2},
+    "researchCostMultiplier": 5.3
 }

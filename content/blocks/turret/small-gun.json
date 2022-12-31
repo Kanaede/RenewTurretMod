@@ -1,0 +1,73 @@
+{
+    "type": "ItemTurret",
+    "airTarget": true,
+    "groundTarget": true,
+    "shake": 0.1,
+    "reloadTime": 5,
+    "inaccurancy": 0.5,
+    "ammoPerShot": 2,
+    "ammoUseEffect": "casing2",
+    "shots": 2,
+    "shootCone": 10,
+    "range": 384,
+    "rotateSpeed": 670,
+    "size": 2,
+    "health": 4480,
+    "consumeAmmoOnce": false,
+    "consumes": {
+        "liquid": {
+            "liquid": "liquid-mithril",
+            "amount": 0.3,
+            "booster": true
+        }
+    },
+    "ammoTypes": {
+        "mithril": {
+            "speed": 5,
+            "damage": 500,
+            "width": 10,
+            "height": 16,
+            "shootEffect": "shootBig",
+            "shootSmoke": "shootBigSmoke",
+            "homingRange": 1000,
+            "homingPower": 99999,
+            "ammoMultiplier": 5,
+            "status": "freezing",
+            "frontColor": "e6ccff",
+            "backColor": "c495f0"
+        },
+        "spore-pod": {
+            "speed": 2,
+            "damage": 120,
+            "width": 10,
+            "height": 16,
+            "shootEffect": "shootBig",
+            "shootSmoke": "shootBigSmoke",
+            "ammoMultiplier": 2,
+            "status": "spore-slowed",
+            "frontColor": "e6ccff",
+            "backColor": "c495f0"
+        },
+        "titanium": {
+            "speed": 5,
+            "damage": 200,
+            "width": 10,
+            "height": 16,
+            "shootEffect": "shootBig",
+            "shootSmoke": "shootBigSmoke",
+            "ammoMultiplier": 2,
+            "frontColor": "b0c7ff",
+            "backColor": "95b0f0"
+        }
+    },
+    "requirements": [
+        {"item":"copper","amount":200},
+        {"item":"metaglass","amount":125},
+        {"item":"silicon","amount":60},
+        {"item":"thorium","amount":120},
+        {"item":"mithril","amount":230}
+    ],
+    "researchCostMultiplier": 20,
+    "category": "turret",
+    "shootSound": "bigshot"
+}

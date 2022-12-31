@@ -3,12 +3,12 @@
     "airTarget": true,
     "groundTarget": true,
     "shake": 0.1,
-    "reloadTime": 5,
-    "inaccurancy": 0.5,
+    "reloadTime": 8,
+    "inaccuracy": 0.2,
     "ammoPerShot": 2,
     "ammoUseEffect": "casing2",
     "shots": 2,
-    "shootCone": 10,
+    "shootCone": 25,
     "range": 384,
     "rotateSpeed": 670,
     "size": 2,
@@ -24,7 +24,7 @@
     "ammoTypes": {
         "mithril": {
             "speed": 5,
-            "damage": 500,
+            "damage": 250,
             "width": 10,
             "height": 16,
             "shootEffect": "shootBig",
@@ -34,7 +34,9 @@
             "ammoMultiplier": 5,
             "status": "freezing",
             "frontColor": "e6ccff",
-            "backColor": "c495f0"
+            "backColor": "c495f0",
+            "lifeTime": 50,
+            "healAmount": 80
         },
         "spore-pod": {
             "speed": 2,
@@ -46,7 +48,8 @@
             "ammoMultiplier": 2,
             "status": "spore-slowed",
             "frontColor": "e6ccff",
-            "backColor": "c495f0"
+            "backColor": "c495f0",
+            "lifeTime": 90
         },
         "titanium": {
             "speed": 5,
@@ -55,9 +58,27 @@
             "height": 16,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
-            "ammoMultiplier": 2,
             "frontColor": "b0c7ff",
-            "backColor": "95b0f0"
+            "backColor": "95b0f0",
+            "lifeTime": 50
+        },
+        "heavy-ammo1": {
+            "speed": 6,
+            "damage": 500,
+            "width": 10,
+            "height": 16,
+            "shootEffect": "shootBig",
+            "shootSmoke": "shootBigSmoke",
+            "homingRange": 99999,
+            "homingPower": 99999,
+            "ammoMultiplier": 10,
+            "status": "blast",
+            "frontColor": "fc9595",
+            "backColor": "fa7f7f",
+            "pierceBuilding": true,
+            "pierceCap": 5,
+            "reloadMultiplier": 0.2,
+            "lifeTime": 45
         }
     },
     "requirements": [

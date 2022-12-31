@@ -70,7 +70,6 @@
             "backColor": "fa7f7f",
             "pierceBuilding": true,
             "pierceCap": 5,
-            "reloadMultiplier": -0.02,
             "lifeTime": 45
         }
     },

@@ -43,7 +43,7 @@
             "frontColor": "e6ccff",
             "backColor": "c495f0",
             "lifetime": 140,
-            "reloadMultiplier": 0.1
+            "reloadMultiplier": 0.01
         },
         "titanium": {
             "speed": 5,

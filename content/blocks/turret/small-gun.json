@@ -22,7 +22,7 @@
             "height": 16,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
-            "homingRange": 1000,
+            "homingRange": 230,
             "homingPower": 99999,
             "ammoMultiplier": 5,
             "status": "freezing",
@@ -43,7 +43,7 @@
             "frontColor": "e6ccff",
             "backColor": "c495f0",
             "lifetime": 140,
-            "reloadMultiplier": 0.01
+            "reloadMultiplier": 0.8
         },
         "titanium": {
             "speed": 5,
@@ -63,7 +63,7 @@
             "height": 16,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
-            "homingRange": 99999,
+            "homingRange": 230,
             "homingPower": 99999,
             "ammoMultiplier": 10,
             "status": "blasted",
@@ -71,7 +71,8 @@
             "backColor": "fa7f7f",
             "pierceBuilding": true,
             "pierceCap": 5,
-            "lifetime": 45
+            "lifetime": 45,
+            "reloadMultiplier": 1.5
         }
     },
     "requirements": [

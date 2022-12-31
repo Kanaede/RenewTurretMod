@@ -72,7 +72,7 @@
             "homingRange": 99999,
             "homingPower": 99999,
             "ammoMultiplier": 10,
-            "status": "blast",
+            "status": "blasted",
             "frontColor": "fc9595",
             "backColor": "fa7f7f",
             "pierceBuilding": true,

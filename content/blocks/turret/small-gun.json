@@ -4,7 +4,7 @@
     "groundTarget": true,
     "shake": 0.1,
     "reloadTime": 15,
-    "inaccuracy": 10,
+    "inaccuracy": 2,
     "ammoPerShot": 2,
     "ammoUseEffect": "casing2",
     "shots": 2,

@@ -29,7 +29,7 @@
             "frontColor": "e6ccff",
             "backColor": "c495f0",
             "lifetime": 50,
-            "healAmount": 80
+            "healPercent": 2
         },
         "spore-pod": {
             "speed": 3,

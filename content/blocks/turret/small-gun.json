@@ -85,6 +85,7 @@
         {"item":"copper","amount":200},
         {"item":"metaglass","amount":125},
         {"item":"silicon","amount":60},
+        {"item":"titanium","amount":90},
         {"item":"thorium","amount":120},
         {"item":"mithril","amount":230}
     ],

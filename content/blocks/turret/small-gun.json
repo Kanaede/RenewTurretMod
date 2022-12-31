@@ -42,8 +42,8 @@
             "status": "spore-slowed",
             "frontColor": "e6ccff",
             "backColor": "c495f0",
-            "lifetime": 120,
-            "reloadMultiplier": 0.03
+            "lifetime": 140,
+            "reloadMultiplier": 0.1
         },
         "titanium": {
             "speed": 5,

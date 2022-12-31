@@ -72,7 +72,7 @@
             "pierceBuilding": true,
             "pierceCap": 5,
             "lifetime": 45,
-            "reloadMultiplier": 1.5
+            "reloadMultiplier": 1.2
         }
     },
     "requirements": [

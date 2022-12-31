@@ -1,11 +1,11 @@
 {
     "name": "returret",
     "displayName": "ReTurret",
-    "version": "[cyan]0.1.0",
+    "version": "[cyan]0.1.2",
     "hidden": false,
     "author": "RakaGIT",
     "minGameVersion": 140,
     "dependencies": [],
     "hideBrowser": false
-    ,"description": "First Release"
+    ,"description": "Alpha Version"
 }

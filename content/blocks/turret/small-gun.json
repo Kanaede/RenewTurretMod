@@ -14,12 +14,6 @@
     "size": 2,
     "health": 4480,
     "consumeAmmoOnce": false,
-    "coolant": [
-        {"liquid":"water","amount":0.1},
-        {"liquid":"cryofluid","amount":0.1},
-        {"liquid":"liquid-mithril","amount":0.1}
-    ],
-    "coolantMultiplier": 0.3,
     "ammoTypes": {
         "mithril": {
             "speed": 5,

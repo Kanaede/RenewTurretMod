@@ -9,7 +9,7 @@
     "ammoUseEffect": "casing2",
     "shots": 2,
     "shootCone": 25,
-    "range": 384,
+    "range": 230,
     "rotateSpeed": 670,
     "size": 2,
     "health": 4480,
@@ -17,7 +17,7 @@
     "ammoTypes": {
         "mithril": {
             "speed": 5,
-            "damage": 250,
+            "damage": 70,
             "width": 10,
             "height": 16,
             "shootEffect": "shootBig",
@@ -33,7 +33,7 @@
         },
         "spore-pod": {
             "speed": 2,
-            "damage": 120,
+            "damage": 20,
             "width": 10,
             "height": 16,
             "shootEffect": "shootBig",
@@ -46,7 +46,7 @@
         },
         "titanium": {
             "speed": 5,
-            "damage": 200,
+            "damage": 50,
             "width": 10,
             "height": 16,
             "shootEffect": "shootBig",
@@ -57,7 +57,7 @@
         },
         "heavy-ammo1": {
             "speed": 6,
-            "damage": 500,
+            "damage": 100,
             "width": 10,
             "height": 16,
             "shootEffect": "shootBig",
@@ -74,7 +74,7 @@
         }
     },
     "requirements": [
-        {"item":"copper","amount":200},
+        {"item":"copper","amount": 200},
         {"item":"metaglass","amount":125},
         {"item":"silicon","amount":60},
         {"item":"titanium","amount":90},
@@ -82,6 +82,7 @@
         {"item":"mithril","amount":230}
     ],
     "researchCostMultiplier": 20,
+    "research": "salvo",
     "category": "turret",
     "shootSound": "bigshot"
 }

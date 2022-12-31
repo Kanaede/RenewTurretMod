@@ -28,7 +28,7 @@
             "status": "freezing",
             "frontColor": "e6ccff",
             "backColor": "c495f0",
-            "lifeTime": 50,
+            "lifetime": 50,
             "healAmount": 80
         },
         "spore-pod": {
@@ -42,7 +42,7 @@
             "status": "spore-slowed",
             "frontColor": "e6ccff",
             "backColor": "c495f0",
-            "lifeTime": 90
+            "lifetime": 90
         },
         "titanium": {
             "speed": 5,
@@ -53,7 +53,7 @@
             "shootSmoke": "shootBigSmoke",
             "frontColor": "b0c7ff",
             "backColor": "95b0f0",
-            "lifeTime": 50
+            "lifetime": 50
         },
         "heavy-ammo1": {
             "speed": 6,
@@ -70,7 +70,7 @@
             "backColor": "fa7f7f",
             "pierceBuilding": true,
             "pierceCap": 5,
-            "lifeTime": 45
+            "lifetime": 45
         }
     },
     "requirements": [

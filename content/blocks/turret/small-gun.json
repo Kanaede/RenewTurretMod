@@ -6,7 +6,7 @@
     "reloadTime": 15,
     "inaccuracy": 2,
     "ammoPerShot": 2,
-    "ammoUseEffect": "casing2",
+    "ammoUseEffect": "casing3",
     "shots": 2,
     "shootCone": 25,
     "range": 230,
@@ -41,7 +41,7 @@
             "status": "spore-slowed",
             "frontColor": "e6ccff",
             "backColor": "c495f0",
-            "lifetime": 135,
+            "lifetime": 120,
             "reloadMultiplier": 0.75
         },
         "titanium": {
@@ -71,13 +71,11 @@
             "pierceBuilding": true,
             "pierceCap": 5,
             "lifetime": 45,
-            "reloadMultiplier": 1.2
+            "reloadMultiplier": 1.15
         }
     },
     "requirements": [
         {"item":"copper","amount": 200},
-        {"item":"metaglass","amount":125},
-        {"item":"silicon","amount":60},
         {"item":"titanium","amount":90},
         {"item":"thorium","amount":120},
         {"item":"mithril","amount":230}

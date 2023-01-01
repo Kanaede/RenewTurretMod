@@ -6,6 +6,6 @@
     "author": "RakaGIT",
     "minGameVersion": 140,
     "dependencies": [],
-    "hideBrowser": false
+    "hideBrowser": true
     ,"description": "Alpha Version"
 }

@@ -28,8 +28,7 @@
             "status": "freezing",
             "frontColor": "e6ccff",
             "backColor": "c495f0",
-            "lifetime": 50,
-            "healPercent": 2
+            "lifetime": 50
         },
         "spore-pod": {
             "speed": 3,
@@ -42,8 +41,8 @@
             "status": "spore-slowed",
             "frontColor": "e6ccff",
             "backColor": "c495f0",
-            "lifetime": 140,
-            "reloadMultiplier": 0.8
+            "lifetime": 135,
+            "reloadMultiplier": 0.75
         },
         "titanium": {
             "speed": 5,

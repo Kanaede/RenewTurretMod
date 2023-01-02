@@ -1,10 +1,11 @@
 # RE-TURRET MOD
 
+[![Stars](https://img.shields.io/github/stars/RakaGIT/ReTurret?label=Star%20the%20mod%20here%21&style=social)]()
+
+
 ****JSON based mod. Made only when there is free time.****
 
 **Powered by RakaGIT**
-
-[![Stars](https://img.shields.io/github/stars/RakaGIT/ReTurret?label=Star%20the%20mod%20here%21&style=social)]()
 
 ## Download
 

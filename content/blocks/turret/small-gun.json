@@ -26,8 +26,8 @@
             "homingPower": 99999,
             "ammoMultiplier": 5,
             "status": "freezing",
-            "frontColor": "e6ccff",
-            "backColor": "c495f0",
+            "frontColor": "#daccff",
+            "backColor": "#b09aed",
             "lifetime": 50
         },
         "spore-pod": {

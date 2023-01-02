@@ -1,7 +1,7 @@
 {
     "type": "OreBlock",
     "itemDrop": "mithril",
-    "mapColor": "027adb",
+    "mapColor": "3a8cc2",
     "hasColor": true,
     "oreDefault": true,
     "oreThreshold": 0.80

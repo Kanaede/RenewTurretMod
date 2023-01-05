@@ -17,7 +17,7 @@
 `v140 - Release`****
 
 ****Mod Version:
-`v0.1.3 - [Alpha]`****
+`v0.1.10 - [Release]`****
 
 This mod is mostly just turrets. It's just me creating random ideas that pop into my head.
 

@@ -9,7 +9,9 @@
 
 ## Download
 
-[![Download](https://img.shields.io/github/v/release/RakaGIT/ReTurret?color=00aeff&include_prereleases&label=DOWNLOAD%20LATEST%20RELEASE&logo=github&logoColor=00bbff&style=for-the-badge)](https://github.com/RakaGIT/ReTurret/releases)
+[![Download](https://img.shields.io/github/v/release/RakaGIT/ReTurret?color=00aeff&include_prereleases&label=DOWNLOAD%20TESTED%20RELEASE&logo=github&logoColor=00bbff&style=for-the-badge)](https://github.com/RakaGIT/ReTurret/releases)
+
+[![Download](https://img.shields.io/github/v/release/RakaGIT/ReTurret?color=fcd303&include_prereleases&label=DOWNLOAD%20LATEST%20RELEASE&logo=github&logoColor=fcc603&style=for-the-badge)](https://github.com/RakaGIT/ReTurret/archive/refs/heads/main.zip)
 
 ## About this Mod
 

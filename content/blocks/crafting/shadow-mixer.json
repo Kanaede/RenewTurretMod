@@ -17,7 +17,7 @@
         "power": 2,
         "items": {
             "items": [
-                {"item":"mithril","amount":5},
+                {"item":"mithril","amount":2},
                 {"item":"titanium","amount":1}
             ]
         },

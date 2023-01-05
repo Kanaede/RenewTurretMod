@@ -13,7 +13,7 @@
 
 ## About this Mod
 
-#### Now on Github:
+#### ****Now on Github:****
 
 ****Minimum Game Version:
 `v140 - Release`****

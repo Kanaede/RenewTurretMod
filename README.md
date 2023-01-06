@@ -1,6 +1,6 @@
 # RE-TURRET MOD
 
-[![Stargazers][stars-shield]][stars-url]
+[![Stars](https://img.shields.io/github/stars/RakaGIT/ReTurret?l&style=for-the-badge&logo=github&logoColor=4dbbff&color=3db5ff&label=MOD%20STAR)]()
 
 ****JSON based mod. Made only when there is free time.****
 

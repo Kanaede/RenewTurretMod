@@ -11,16 +11,16 @@
 
 [![Download](https://img.shields.io/github/v/release/RakaGIT/ReTurret?color=00aeff&include_prereleases&label=DOWNLOAD%20LATEST%20RELEASE&logo=github&logoColor=00bbff&style=for-the-badge)](https://github.com/RakaGIT/ReTurret/releases)
 
-[![Download](https://img.shields.io/badge/DOWNLOAD%20LATEST%20CODE-v0.1.10--ALPHA-f5e342?style=for-the-badge&logo=github&logoColor=f5e342)](https://github.com/RakaGIT/ReTurret/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/DOWNLOAD%20LATEST%20CODE-v0.1.11--ALPHA-f5e342?style=for-the-badge&logo=github&logoColor=f5e342)](https://github.com/RakaGIT/ReTurret/archive/refs/heads/main.zip)
 
 ## About this Mod
 
 ****Minimum Game Version:
-`Version 140 [For latest release mod - v0.1.10]`****
+`Version 140 [For latest release mod - v0.1.11]`****
 
 ****Mod Version:
-`v0.1.8 - Release `
-`v0.1.10 - Latest Release`****
+`v0.1.8 - Latest Release `
+`v0.1.11 - Latest Alpha`****
 
 This mod is mostly just turrets. It's just me creating random ideas that pop into my head.
 

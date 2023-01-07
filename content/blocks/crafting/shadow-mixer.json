@@ -1,4 +1,5 @@
 {
+    // Block Data
     "type": "GenericCrafter",
     "category": "crafting",
     "size": 2,
@@ -8,11 +9,15 @@
     "liquidCapacity": 0.6,
     "itemCapacity": 10,
     "craftTime": 120,
+
+    // Build Data
     "requirements": [
             {"item":"mithril","amount":500},
             {"item":"titanium","amount":200},
             {"item":"plastanium","amount":450}
     ],
+
+    // Storage Data
     "consumes": {
         "power": 2,
         "items": {
@@ -24,5 +29,24 @@
         "liquid": {"liquid":"water","amount":0.2}
     },
     "outputLiquid": {"liquid":"liquid-mithril","amount":0.2},
-    "research": "cryofluid-mixer"
+    "research": "cryofluid-mixer",
+
+    // Sprite data
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+            "type": "DrawRegion",
+            "suffix": "-bottom"
+            },
+            {
+                "type": "DrawDefault"
+            },
+            {
+                "type": "DrawLiquidRegion",
+                "drawLiquid": "liquid-mithril",
+                "suffix": "-liquid"
+            }
+        ]
+    }
 }

@@ -18,7 +18,7 @@
 ## About this Mod
 
 ****Minimum Game Version:
-`Version 140 [For latest release mod - v0.1.11]`****
+`Version 140 [From latest release mod - v0.1.11]`****
 
 ****Mod Version:
 `v0.1.8 - Latest Release `

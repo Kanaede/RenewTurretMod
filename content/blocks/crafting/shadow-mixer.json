@@ -46,6 +46,10 @@
                 "type": "DrawLiquidRegion",
                 "drawLiquid": "liquid-mithril",
                 "suffix": "-liquid"
+            },
+            {
+                "type": "DrawRegion",
+                "suffix": "-top"
             }
         ]
     }

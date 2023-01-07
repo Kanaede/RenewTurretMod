@@ -6,9 +6,9 @@
     "hasPower": true,
     "hasLiquids": true,
     "hasItems": true,
-    "liquidCapacity": 0.6,
+    "liquidCapacity": 1.2,
     "itemCapacity": 10,
-    "craftTime": 120,
+    "craftTime": 180,
 
     // Build Data
     "requirements": [

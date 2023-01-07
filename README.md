@@ -24,7 +24,7 @@
 `v0.1.8 - Latest Release `
 `v0.1.12 - Latest Alpha`****
 
-This mod is mostly just turrets. It's just me creating random ideas that pop into my head.
+It's just me creating random ideas that pop into my head.
 
 Help star this mod so that it develops more.
 The PC I used to make this mod is very slow so hopefully there is money to upgrade it, because I love making mods like this.

@@ -5,19 +5,19 @@
     "shake": 0.3,
     "reloadTime": 20,
     "range": 280,
-    "size": 3,
+    "size": 2,
     "rotateSpeed": 700,
     "health": 5200,
     "ammoPerShot": 2,
     "ammoTypes": {
         "silicon": {
-            "speed": 26,
+            "speed": 10,
             "damage": 700,
             "width": 2,
             "height": 2,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
-            "lifetime": 20,
+            "lifetime": 26,
             "frontColor": "aba7fc",
             "backColor": "9d97fc"
         },

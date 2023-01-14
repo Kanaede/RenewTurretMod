@@ -48,5 +48,15 @@
             "homingRange": 300,
             "ammoMultiplier": 1.2
         }
-    }
+    },
+    "requirements": [
+        {"item":"copper","":290},
+        {"item":"lead","":290},
+        {"item":"titanium","":120},
+        {"item":"mithril","":250}
+    ],
+    "researchCostMultiplier": 4,
+    "research": "small-gun",
+    "category": "turret",
+    "shootSound": "kBoom"
 }

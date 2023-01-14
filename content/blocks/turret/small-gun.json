@@ -12,7 +12,7 @@
     "range": 230,
     "rotateSpeed": 670,
     "size": 2,
-    "health": 4480,
+    "health": 1300,
     "consumeAmmoOnce": false,
     "ammoTypes": {
         "mithril": {

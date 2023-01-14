@@ -16,12 +16,12 @@
         "items": {
             "items": [
                 {"item":"pyratite","amount":1},
-                {"item":"heavy-ammo1","amount":1}
+                {"item":"heavy-ammo1","amount":2}
             ]
         }
     },
     "research": "silicon-smelter",
-    "outputItem": {"item":"heavy-ammo2","amount":1},
+    "outputItem": {"item":"heavy-ammo2","amount":2},
     "researchCostMultiplier": 3.3,
     "size": 2
 }

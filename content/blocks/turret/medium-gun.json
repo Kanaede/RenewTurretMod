@@ -1,0 +1,52 @@
+{
+    "type": "ItemTurret",
+    "airTarget": true,
+    "groundTarget": true,
+    "shake": 0.3,
+    "reloadTime": 20,
+    "range": 280,
+    "size": 3,
+    "rotateSpeed": 700,
+    "health": 5200,
+    "ammoPerShot": 2,
+    "ammoTypes": {
+        "silicon": {
+            "speed": 10,
+            "damage": 700,
+            "width": 2,
+            "height": 2,
+            "shootEffect": "shootBig",
+            "shootSmoke": "shootBigSmoke",
+            "lifetime": 20,
+            "frontColor": "aba7fc",
+            "backColor": "9d97fc"
+        },
+        "heavy-ammo1": {
+            "speed": 12,
+            "damage": 100,
+            "width": 2,
+            "height": 2,
+            "shootEffect": "shootBig",
+            "shootSmoke": "shootBigSmoke",
+            "lifetime": 16,
+            "frontColor": "aba7fc",
+            "backColor": "9d97fc",
+            "homingPower": 99999,
+            "homingRange": 250
+        },
+        "heavy-ammo2": {
+            "speed": 12,
+            "damage": 120,
+            "width": 3,
+            "height": 3,
+            "shootEffect": "shootBig",
+            "shootSmoke": "shootBigSmoke",
+            "lifetime": 16,
+            "frontColor": "aba7fc",
+            "backColor": "9d97fc",
+            "homingPower": 99999,
+            "homingRange": 300,
+            "ammoMultiplier": 1.2
+        }
+    }
+}

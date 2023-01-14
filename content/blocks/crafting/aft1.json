@@ -1,7 +1,8 @@
 {
     "type": "GenericCrafter",
     "category": "crafting",
-    "haspower": true,
+    "hasPower": true,
+    "hasItems": true,
     "size": 2,
     "craftTime": 180,
     "craftEffect": "smokeCloud",

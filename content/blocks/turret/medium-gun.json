@@ -11,7 +11,7 @@
     "ammoPerShot": 2,
     "ammoTypes": {
         "silicon": {
-            "speed": 10,
+            "speed": 26,
             "damage": 700,
             "width": 2,
             "height": 2,
@@ -28,11 +28,12 @@
             "height": 2,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
-            "lifetime": 16,
+            "lifetime": 24,
             "frontColor": "aba7fc",
             "backColor": "9d97fc",
             "homingPower": 99999,
-            "homingRange": 250
+            "homingRange": 250,
+            "ammoMultiplier": 1.15
         },
         "heavy-ammo2": {
             "speed": 12,
@@ -41,7 +42,7 @@
             "height": 3,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
-            "lifetime": 16,
+            "lifetime": 24,
             "frontColor": "aba7fc",
             "backColor": "9d97fc",
             "homingPower": 99999,

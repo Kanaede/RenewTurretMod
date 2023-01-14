@@ -12,7 +12,7 @@
     "ammoTypes": {
         "silicon": {
             "speed": 10,
-            "damage": 700,
+            "damage": 70,
             "width": 2,
             "height": 2,
             "shootEffect": "shootBig",
@@ -37,7 +37,7 @@
         },
         "heavy-ammo2": {
             "speed": 12,
-            "damage": 120,
+            "damage": 160,
             "width": 3,
             "height": 3,
             "shootEffect": "shootBig",

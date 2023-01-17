@@ -13,7 +13,7 @@
 
 [![Release](https://img.shields.io/github/v/release/RakaGIT/ReTurret?color=00aeff&include_prereleases&label=DOWNLOAD%20LATEST%20RELEASE&logo=acclaim&logoColor=00bbff&style=for-the-badge)](https://github.com/RakaGIT/ReTurret/releases)
 
-[![Latest](https://img.shields.io/badge/DOWNLOAD%20LATEST%20CODE-v0.1.13--ALPHA-f5e342?style=for-the-badge&logo=onlyoffice&logoColor=f5e342)](https://github.com/RakaGIT/ReTurret/archive/refs/heads/main.zip)
+[![Latest](https://img.shields.io/badge/DOWNLOAD%20LATEST%20CODE-v0.1.17--ALPHA-f5e342?style=for-the-badge&logo=onlyoffice&logoColor=f5e342)](https://github.com/RakaGIT/ReTurret/archive/refs/heads/main.zip)
 
 ## About this Mod
 

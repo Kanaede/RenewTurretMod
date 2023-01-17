@@ -1,7 +1,8 @@
 {
+    //Do not modify this File!
     "name": "returret",
     "displayName": "ReTurret",
-    "version": "[cyan]0.1.17",
+    "version": "[cyan]0.1.22",
     "hidden": false,
     "author": "RakaGIT",
     "minGameVersion": 140,

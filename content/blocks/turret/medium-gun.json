@@ -1,5 +1,7 @@
 {
+    //Main
     "type": "ItemTurret",
+    "category": "turret",
     "airTarget": true,
     "groundTarget": true,
     "shake": 0.3,
@@ -9,6 +11,8 @@
     "rotateSpeed": 700,
     "health": 1620,
     "ammoPerShot": 2,
+
+    //Ammo and Bullet
     "ammoTypes": {
         "silicon": {
             "speed": 5,
@@ -33,8 +37,11 @@
             "backColor": "9d97fc",
             "homingPower": 99999,
             "homingRange": 250,
-            "ammoMultiplier": 5,
-            "reloadMultiplier": 1.2
+            "ammoMultiplier": 3,
+            "reloadMultiplier": 1.2,
+            "pierce": true,
+            "pierceCap": 3,
+            "status": "blasted"
         },
         "heavy-ammo2": {
             "speed": 6,
@@ -48,10 +55,16 @@
             "backColor": "9d97fc",
             "homingPower": 99999,
             "homingRange": 300,
-            "ammoMultiplier": 3,
-            "reloadMultiplier": 1.5
+            "ammoMultiplier": 6,
+            "reloadMultiplier": 1.5,
+            "status": "blasted",
+            "pierceBuilding": true,
+            "pierce": true,
+            "pierceCap": 8
         }
     },
+
+    //Other
     "requirements": [
         {"item":"copper","":290},
         {"item":"lead","":290},
@@ -60,6 +73,5 @@
     ],
     "researchCostMultiplier": 4,
     "research": "small-gun",
-    "category": "turret",
     "shootSound": "kBoom"
 }

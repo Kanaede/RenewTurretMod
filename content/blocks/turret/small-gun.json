@@ -41,8 +41,8 @@
             "status": "spore-slowed",
             "frontColor": "e6ccff",
             "backColor": "c495f0",
-            "lifetime": 100,
-            "reloadMultiplier": 0.75
+            "lifetime": 95,
+            "reloadMultiplier": 0.90
         },
         "titanium": {
             "speed": 5,
@@ -71,7 +71,7 @@
             "pierceBuilding": true,
             "pierceCap": 5,
             "lifetime": 45,
-            "reloadMultiplier": 1.15
+            "reloadMultiplier": 1.05
         }
     },
     "requirements": [

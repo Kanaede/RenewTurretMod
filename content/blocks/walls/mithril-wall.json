@@ -1,6 +1,6 @@
 {
     "type": "Wall",
-    "category": "defence",
+    "category": "defense",
     "health": 560,
     "requirements": [
         {"item":"mithril-build-pack","amount":8}

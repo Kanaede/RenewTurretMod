@@ -1,6 +1,6 @@
 {
     "type": "Wall",
-    "category": "defence",
+    "category": "defense",
     "health": 2240,
     "size": 2,
     "requirements": [

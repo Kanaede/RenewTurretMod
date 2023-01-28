@@ -31,7 +31,5 @@
         }
     },
 
-    "outputItem": [
-        {"item":"mithril-build-pack","amount":1}
-    ]
+    "outputItem": {"item":"mithril-build-pack","amount":1}
 }

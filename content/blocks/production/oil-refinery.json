@@ -37,9 +37,7 @@
         {"liquid":"heavy-oil","amount":1}
     ],
 
-    "outputItem": [
-        {"liquid":"silicon","amount":1}
-    ],
+    "outputItem": {"liquid":"silicon","amount":1},
 
     // Sprite Data
     "drawer": {

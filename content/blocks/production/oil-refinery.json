@@ -8,7 +8,7 @@
     "size": 3,
     "craftTime": 120,
     "liquidCapacity": 3,
-    "craftEffect": "blastSmoke",
+    "craftEffect": "smokeCloud",
 
     // Build Data
     "requirements": [

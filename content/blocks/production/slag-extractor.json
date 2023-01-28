@@ -48,7 +48,7 @@
             },
             {
                 "type": "DrawLiquidRegion",
-                "drawLiquid": "lava",
+                "drawLiquid": "slag",
                 "suffix": "-liquid"
             },
             {

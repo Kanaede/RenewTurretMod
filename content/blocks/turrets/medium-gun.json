@@ -12,12 +12,12 @@
     "health": 1620,
     "ammoPerShot": 2,
 
-    //Ammo and Bullet
+    //Ammo
     "ammoTypes": {
         "silicon": {
             "speed": 5,
             "damage": 70,
-            "width": 2,
+            "width": 8,
             "height": 20,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
@@ -28,7 +28,7 @@
         "heavy-ammo1": {
             "speed": 6,
             "damage": 100,
-            "width": 2,
+            "width": 8,
             "height": 20,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
@@ -46,7 +46,7 @@
         "heavy-ammo2": {
             "speed": 6,
             "damage": 160,
-            "width": 3,
+            "width": 10,
             "height": 30,
             "shootEffect": "shootBig",
             "shootSmoke": "shootBigSmoke",
@@ -64,7 +64,7 @@
         }
     },
 
-    //Other
+    //Utility
     "requirements": [
         {"item":"copper","":290},
         {"item":"lead","":290},

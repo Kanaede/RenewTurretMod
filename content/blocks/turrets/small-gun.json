@@ -1,4 +1,5 @@
 {
+    // Main
     "type": "ItemTurret",
     "airTarget": true,
     "groundTarget": true,
@@ -14,6 +15,8 @@
     "size": 2,
     "health": 1300,
     "consumeAmmoOnce": false,
+
+    // Ammo
     "ammoTypes": {
         "mithril": {
             "speed": 5,
@@ -24,7 +27,7 @@
             "shootSmoke": "shootBigSmoke",
             "homingRange": 230,
             "homingPower": 99999,
-            "ammoMultiplier": 5,
+            "ammoMultiplier": 3,
             "status": "freezing",
             "frontColor": "#daccff",
             "backColor": "#b09aed",
@@ -64,7 +67,7 @@
             "shootSmoke": "shootBigSmoke",
             "homingRange": 230,
             "homingPower": 99999,
-            "ammoMultiplier": 10,
+            "ammoMultiplier": 3,
             "status": "blasted",
             "frontColor": "fc9595",
             "backColor": "fa7f7f",
@@ -74,6 +77,8 @@
             "reloadMultiplier": 1.05
         }
     },
+
+    // Utility
     "requirements": [
         {"item":"copper","amount": 200},
         {"item":"titanium","amount":90},
@@ -81,7 +86,7 @@
         {"item":"mithril","amount":230}
     ],
     "researchCostMultiplier": 20,
-    "research": "salvo",
+    "research": "mithril",
     "category": "turret",
     "shootSound": "bigshot"
 }

@@ -1,0 +1,61 @@
+{
+    // Main
+    "type": "GenericCrafter",
+    "category": "crafting",
+    "hasPower": true,
+    "hasLiquids": true,
+    "hasItems": true,
+    "size": 3,
+    "craftTime": 120,
+    "liquidCapacity": 3,
+    "craftEffect": "blastSmoke",
+
+    // Build Data
+    "requirements": [
+        {"item":"copper","amount":300},
+        {"item":"silicon","amount":190},
+        {"item":"titanium","amount":310},
+        {"item":"mithril","amount":500},
+        {"item":"mithril-build-pack","amount":80}
+    ],
+
+    "research": "spore-press",
+    
+    // Storage Data
+    "consumes": {
+        "power": 1.3,
+        "items": {
+            "items": [
+                {"item":"plastanium","amount":1},
+                {"item":"sand","amount":5}
+            ]
+        },
+        "liquid": {"liquid":"oil","amount":0.6}
+    },
+
+    "outputLiquid": [
+        {"liquid":"heavy-oil","amount":1}
+    ],
+
+    "outputItem": [
+        {"liquid":"silicon","amount":1}
+    ],
+
+    // Sprite Data
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+                "type": "DrawRegion",
+                "suffix": "-bottom"
+            },
+            {
+                "type": "DrawDefault"
+            },
+            {
+                "type": "DrawCrucibleFlame",
+                "flameColor": "F59E49"
+            }
+        ]
+    }
+}

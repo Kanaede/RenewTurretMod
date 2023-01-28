@@ -1,0 +1,62 @@
+{
+    // Main
+    "type": "GenericCrafter",
+    "category": "crafting",
+    "craftTime": 200,
+    "size": 3,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "itemCapacity": 20,
+    "liquidCapacity": 2,
+
+    // Build Data
+    "requirements": [
+        {"item":"copper","amount":200},
+        {"item":"lead","amount":180},
+        {"item":"titanium","amount":200},
+        {"item":"thorium","amount":140},
+        {"item":"mithril","amount":215}
+    ],
+
+    // Storage Data
+    "consumes": {
+        "power": 3.4,
+        "items": {
+            "items": [
+                {"item":"lava-stone","amount":10},
+                {"item":"pyratite","amount":1}
+            ]
+        }
+    },
+    "outputLiquid": {"liquid":"lava","amount":1},
+    "outputItem": [
+        {"item":"scrap","amount":2}
+    ],
+
+    // Utility
+    "research": "melter",
+
+    // Sprite Data
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+                "type": "DrawRegion",
+                "suffix": "-bottom"
+            },
+            {
+                "type": "DrawDefault"
+            },
+            {
+                "type": "DrawLiquidRegion",
+                "drawLiquid": "lava",
+                "suffix": "-liquid"
+            },
+            {
+                "type": "DrawRegion",
+                "suffix": "-top"
+            }
+        ]
+    }
+}

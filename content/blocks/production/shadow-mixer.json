@@ -23,12 +23,13 @@
         "items": {
             "items": [
                 {"item":"mithril","amount":2},
-                {"item":"titanium","amount":1}
             ]
         },
-        "liquid": {"liquid":"water","amount":0.2}
+        "liquid": {"liquid":"cryofluid","amount":0.1}
     },
     "outputLiquid": {"liquid":"liquid-mithril","amount":0.2},
+
+    // Utility
     "research": "cryofluid-mixer",
 
     // Sprite data

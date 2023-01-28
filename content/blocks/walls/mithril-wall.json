@@ -1,0 +1,9 @@
+{
+    "type": "Wall",
+    "category": "defence",
+    "health": 560,
+    "requirements": [
+        {"item":"mithril-build-pack","amount":8}
+    ],
+    "research": "titanium-wall"
+}

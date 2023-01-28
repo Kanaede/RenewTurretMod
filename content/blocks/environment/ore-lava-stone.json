@@ -1,0 +1,7 @@
+{
+    "type": "OreBlock",
+    "itemDrop": "lava-stone",
+    "mapColor": "750000",
+    "hasColor": true,
+    "oreDefault": true
+}

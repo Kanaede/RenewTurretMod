@@ -1,0 +1,37 @@
+{
+    // Main
+    "type": "GenericCrafter",
+    "category": "crafting",
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "size": 2,
+    "craftTime": 80,
+    "craftEffect": "producesmoke",
+    
+    // Build Data
+    "requirements": [
+        {"item":"copper","amount":120},
+        {"item":"lead","amount":120},
+        {"item":"silicon","amount":150},
+        {"item":"titanium","amount":100}
+    ],
+
+    "research": "separator",
+
+    // Storage Data
+    "consumes": {
+        "power": 2,
+        "items": {
+            "items": [
+                {"item":"lead","amount":2},
+                {"item":"scrap","amount":2},
+                {"item":"mithril","amount":4}
+            ]
+        }
+    },
+
+    "outputItem": [
+        {"item":"mithril-build-pack","amount":1}
+    ]
+}

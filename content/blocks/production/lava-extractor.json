@@ -29,7 +29,7 @@
             ]
         }
     },
-    "outputLiquid": {"liquid":"lava","amount":1},
+    "outputLiquid": {"liquid":"slag","amount":1},
     "outputItem": {"item":"scrap","amount":2},
 
     // Utility

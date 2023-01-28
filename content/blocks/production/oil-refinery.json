@@ -33,9 +33,7 @@
         "liquid": {"liquid":"oil","amount":0.6}
     },
 
-    "outputLiquid": [
-        {"liquid":"heavy-oil","amount":1}
-    ],
+    "outputLiquid": {"liquid":"heavy-oil","amount":1},
 
     "outputItem": {"liquid":"silicon","amount":1},
 

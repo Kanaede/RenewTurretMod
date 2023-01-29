@@ -40,7 +40,9 @@
             },
             {
                 "type": "DrawArcSmelt",
-                "suffix": "-top"
+                "suffix": "-top",
+                "particleLife": 20,
+                "particle": 15
             }
         ]
     }
